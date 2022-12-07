@@ -1,0 +1,101 @@
+#wintermelon{
+	border-style: solid;
+	border-color: darkred;
+	margin: 10%;
+	padding: 12px;
+	text-decoration: underline;
+	color: orangered;
+}
+#matcha{
+	border-style: solid;
+	border-color: darkred;
+	margin: 10%;
+	padding: 12px;
+	text-decoration: underline;
+	color: orangered;
+}
+#caramel{
+	border-style: solid;
+	border-color: darkred;
+	margin: 10%;
+	padding: 12px;
+	text-decoration: underline;
+	color: orangered;
+}
+#taro{
+	border-style: solid;
+	border-color: darkred;
+	margin: 10%;
+	padding: 12px;
+	text-decoration: underline;
+	color: orangered;
+}
+#Blacktea{
+	border-style: solid;
+	border-color: darkred;
+	margin: 10%;
+	padding: 12px;
+	text-decoration: underline;
+	color: orangered;
+}
+#Taiwan{
+	border-style: solid;
+	border-color: darkred;
+	margin: 10%;
+	padding: 12px;
+	text-decoration: underline;
+	color: orangered;
+}
+#peach{
+	border-style: solid;
+	border-color: darkred;
+	margin: 10%;
+	padding: 12px;
+	text-decoration: underline;
+	color: orangered;
+}
+#milktea{
+	border-style: solid;
+	border-color: white;
+	font: white;
+	text-decoration: underline;
+	color: orangered;
+}
+#banana{
+	border-style: solid;
+	border-color: darkred;
+	margin: 10%;
+	padding: 12px;
+	text-decoration: underline;
+	color: orangered;
+}
+#chocolate{
+	border-style: solid;
+	border-color: darkred;
+	margin: 10%;
+	padding: 12px;
+	text-decoration: underline;
+	color: orangered;
+}
+#peachyogurt{
+	border-style: solid;
+	border-color: darkred;
+	margin: 10%;
+	padding: 12px;
+	text-decoration: underline;
+	color: orangered;
+}
+button {
+	border: none;
+	border-radius: 6px;
+	outline: 0;
+	display: inline-block;
+	padding: 12px;
+	color: white;
+	background-color: #f5400a;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	font-size: 18px;
+}
+
